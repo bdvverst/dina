@@ -5,8 +5,9 @@ body {
   font-size: 29px;
   line-height: 42px;
   color: #000000;
-  background-image: url("img/background_065.jpg") ;
+  background-image: url("img/background.jpg") ;
   background-repeat: no-repeat;
+  background-size: 100% ;
 }
 
 .choice_0{
@@ -20,7 +21,7 @@ main{
   margin: 15px 40px;
 }
 .title{
-  color: black;
+  color: rgb(0, 0, 0);
 }
 header{
   height: 50px;
