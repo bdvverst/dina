@@ -2,14 +2,14 @@ body {
   margin: 0;
   min-width: 960px;
   font-family: "Blackadder ITC", "Algerian";
-  font-size: 29px;
-  line-height: 42px;
+  font-size: 4vh;
+  line-height: 125%;
   color: #000000;
   background-image: url("img/background.jpg") ;
   background-repeat: no-repeat;
   background-size:cover ;
   background-position: center center;
-  background-attachment: fixed;  
+  background-attachment: fixed;
 }
 
 .choice_2 {
@@ -35,6 +35,14 @@ main{
 }
 .title{
   color: rgb(0, 0, 0);
+  font-size: 1.8em;
+  line-height: 115%;
+  font-weight: bold;
+}
+.title2{
+	color: rgb(0, 0, 0);
+  font-size: 1.5em;
+  line-height: 115%;
 }
 header{
   height: 50px;
